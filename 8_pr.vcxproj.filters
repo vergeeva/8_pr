@@ -26,6 +26,9 @@
     <Text Include="Text.txt">
       <Filter>Файлы ресурсов</Filter>
     </Text>
+    <Text Include="Текст_Приглашения.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyForm.cpp">
